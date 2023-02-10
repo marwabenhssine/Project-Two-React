@@ -1,0 +1,14 @@
+
+- the forecast(altanab2 bel mana5
+===> npm i react-accessible-accordion
+
+
+- Optimized for the the older version of react its going to be updated
+===> npm i react-select-async-paginate --force
+
+
+
+///websites 
+
+===> GeoDB Cities API: https://rapidapi.com/wirefreethought/api/geodb-cities/
+===> OpenWeather API:https://openweathermap.org/
